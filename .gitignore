@@ -6,6 +6,7 @@
 #ignore these
 Classwork21.sln
 *vcxproj
+*vcxproj.filters
 
 # User-specific files
 *.rsuser

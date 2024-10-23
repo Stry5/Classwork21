@@ -1,3 +1,5 @@
 #pragma once
 
-void createArray();
+namespace array{
+	void createArray();
+}
